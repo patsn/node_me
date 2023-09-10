@@ -2,7 +2,7 @@
 
 ---
 
-## Sub Proejcts
+## Sub Projects
 
 JSON Web Token: [Klick](./JWT) <br>
 Basic User Auth: [Klick](./UserAuth)
