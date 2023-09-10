@@ -4,7 +4,7 @@
 
 ## Sub Proejcts
 
-JSON Web Token: [Klick](./JWT)
+JSON Web Token: [Klick](./JWT) <br>
 Basic User Auth: [Klick](./UserAuth)
 
 ## Description
