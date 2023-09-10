@@ -1,5 +1,7 @@
 ## Functions:
 
+Back to Main Page: [Click](../)
+
 ### Authentication Middleware (handleAccess):
 
 The `handleAccess` middleware is defined to check for valid JWT tokens in the `Authorization` header of incoming requests.<br>
